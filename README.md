@@ -1,5 +1,5 @@
 # RT_Cat
-Работает на Node.js и discord.js
+Работает на ```Node.js``` и ```Discord.js```
 Версия 1.0.0
 Автор: Ross_Tech
 Дискорд сервер разработчика: https://discord.gg/E5BUGPVSn9
