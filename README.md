@@ -16,7 +16,7 @@
     Name: Discord.js docs - https://marketplace.visualstudio.com/items?itemName=gtjman.discord-js-docs
     Name: Discord Tools - https://marketplace.visualstudio.com/items?itemName=Darkempire78.discord-tools
     Name: Discord Presence - https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode
-3. Открыть консоль и ввести команду node bot.js
+3. Открыть консоль и ввести команду ```node bot.js```
 
 ## Ручной
 1. Зайти на сайт [discordapp.com] и нажать на кнопку <kbd>New Application</kbd>
@@ -45,7 +45,7 @@
 
 
 8. Выбрать через консоль каталог с файлами бота, и запустить `npm install discord.js` (или все модули `npm install` из **package.json**)
-9. Запустить бота: **node bot.js**
+9. Запустить бота: ```node bot.js```
 
 [discordapp.com]: //discordapp.com/developers/
 [Node.js&reg;]: //nodejs.org/dist/latest-v16.x/
