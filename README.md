@@ -11,11 +11,11 @@
 ## Автоматизированный
 1. Скачать Visual Studio Code.
 2. Установивать плагины и расширения:
-    * Name: Node.js Extension Pack - https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack
-    * Name: Node Extension Pack - https://marketplace.visualstudio.com/items?itemName=swellaby.node-pack
-    * Name: Discord.js docs - https://marketplace.visualstudio.com/items?itemName=gtjman.discord-js-docs
-    * Name: Discord Tools - https://marketplace.visualstudio.com/items?itemName=Darkempire78.discord-tools
-    * Name: Discord Presence - https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode
+    * Node.js Extension Pack - https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack
+    * Node Extension Pack - https://marketplace.visualstudio.com/items?itemName=swellaby.node-pack
+    * Discord.js docs - https://marketplace.visualstudio.com/items?itemName=gtjman.discord-js-docs
+    * Discord Tools - https://marketplace.visualstudio.com/items?itemName=Darkempire78.discord-tools
+    * Discord Presence - https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode
 3. Открыть консоль и ввести команду ```node bot.js```
 
 ## Ручной
