@@ -55,11 +55,11 @@
 1. https://github.com/danielzzz/node-ping
 2. ? `npm install moment-timezone`
 
-## Links
+## Полезные ссылки
 
 * [Creating DiscordApp and obtaining Token](//anidiots.guide/getting-started/getting-started-long-version)
 * [Презентация Node.js&reg;](//urfu-2016.github.io/javascript-slides/09-nodejs/)
 
-## Licensing
+## Лицензия
 
-RT_Cat_Bot is licensed under the [License].
+RT_Cat is licensed under the [License].
