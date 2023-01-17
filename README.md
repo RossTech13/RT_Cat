@@ -8,7 +8,7 @@
 
 Есть два пути установки данного бота, автоматизированный и ручной.
 
-##Автоматизированный
+## Автоматизированный
 1. Скачать Visual Studio Code.
 2. Установивать плагины и расширения:
     Name: Node.js Extension Pack - https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack
@@ -17,7 +17,7 @@
     Name: Discord Tools - https://marketplace.visualstudio.com/items?itemName=Darkempire78.discord-tools
     Name: Discord Presence - https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode
 
-##Ручной
+## Ручной
 1. Зайти на сайт [discordapp.com] и нажать на кнопку <kbd>New Application</kbd>
 2. На сайте в настройках нужно создать бота и скопировать его TOKEN
 3. Скопировть файлы из репозитория на свой локальный компьютер
